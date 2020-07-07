@@ -8,7 +8,7 @@ export class MessageService {
   messages: string[] = [];
 
   add(message: string): void {
-    this.messages.push(message);
+    this.messages.push(`[${ new Date().toLocaleString("en-US") }]: ${ message }`);
   }
 
   clear(): void {

@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
+This is my first project in which i used the Angular Framework. 
+The project was developed following the example of the [official tutorial on angular.io](https://angular.io/tutorial). 
+Several changes have been made to this project for better understanding Angular.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
